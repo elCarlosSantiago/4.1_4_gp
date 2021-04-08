@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 server.get('/api/hello', (req, res) => {
-	res.json({ message: 'hello' });
+	res.json({ message: 'hello boyyyy' });
 });
 
 //CATCH ALL ENDPOINT THAT SENDS BACK index.html
